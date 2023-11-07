@@ -6,7 +6,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="25" height="25" /> FINAL PROJECT 3
 Aplikasi Kalkulator Mekanik Android akan membantu kita untuk melakukan berbagai perhitungan aritmatika. Aplikasi android ini akan memiliki antarmuka pengguna dengan angka dan operasi aritmatika. 
-Aplikasi ini dibuat untuk menyelesaikan Final Project 3 pada Modul JAVA Android Kampus Merdeka
+Aplikasi ini dibuat untuk menyelesaikan Final Project 3 pada Modul JAVA Android Kampus Merdeka. Dan Calculator Mechanical harus mempunyai 1 digit nilai setelah simbol (.) dan ketika dites 1 + 1 = 2.0 Itu yang kita mau
 
 - Ini akan memiliki tombol angka yang akan dibuat menggunakan tombol
 - Hal lainnya adalah operator seperti +, *, /, -, % yang dibuat menggunakan tombol juga
